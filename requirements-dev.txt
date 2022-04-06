@@ -1,0 +1,4 @@
+nltk
+polyleven
+bandit
+flake8
